@@ -21,4 +21,4 @@ This is a simple end-to-end project related to text sentiment analysis using a t
     
     
     
-    <img width="529" alt="image" src="https://user-images.githubusercontent.com/36227279/206920232-35ffd2fd-913c-421b-b279-07b9cfacab18.png">
+<img width="529" alt="image" src="https://user-images.githubusercontent.com/36227279/206920253-dc3a57ef-12cf-4c00-9071-b9190e6aeb17.png">
