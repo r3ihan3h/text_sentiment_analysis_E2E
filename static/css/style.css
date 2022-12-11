@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 5%;
+  background-color: #f3f1e8;
+}
+
+h1 {
+  padding-bottom: 5%;
+  color: #547aa5;
+}
+
+#text {
+  font-size: large;
+  background-color: #c5c8cc;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#button {
+  width: 100px;
+  font-size: large;
+  color: #f3f1e8;
+  margin-top: 2%;
+  padding: 10px 20px;
+  background-color: #547aa5;
+  border-radius: 10px;
+  border: 0px;
+}
+
+#result {
+  padding-top: 20px;
+  zoom: 500%;
+}
