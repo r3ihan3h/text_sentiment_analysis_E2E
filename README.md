@@ -47,12 +47,12 @@ This is a simple end-to-end project related to text sentiment analysis using a t
 
     ### Neutral Content
     
-    <img width="420" alt="image" src="https://user-images.githubusercontent.com/36227279/207990400-e28715cd-3ae9-4d8e-afc3-a0c290a115dc.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/36227279/207990400-e28715cd-3ae9-4d8e-afc3-a0c290a115dc.png">
 
 
     ### Negative Content
     
-    <img width="409" alt="image" src="https://user-images.githubusercontent.com/36227279/207990749-79761727-9089-4514-8f78-75278934f946.png">
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/36227279/207990749-79761727-9089-4514-8f78-75278934f946.png">
 
 
 
