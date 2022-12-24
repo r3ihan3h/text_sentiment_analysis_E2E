@@ -1,0 +1,10 @@
+numpy==1.24.0
+pandas==1.5.2
+matplotlib==3.6
+seaborn==0.12.1
+google-auth==2.x.x
+google-auth-oauthlib==0.4.1
+nltk==3.6
+inflect==6.0.2
+contractions==0.1.73
+tensorflow==2.11.0
